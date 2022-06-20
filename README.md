@@ -1,6 +1,6 @@
 1. На локальном репозитории сделать ветки для:
 - Postman
-git branch Postman
+  git branch Postman
 
 - Jmeter
 git branch Jmeter
